@@ -7,7 +7,7 @@ title: Marcelo's PhD
 
 Hi, this is [Marcelo de Souza](https://souzamarcelo.github.io){:target="_blank"}! This page presents links to the artifacts arising from my PhD research. Here I enumerate the scientific publications, talks and presentations in workshops, doctoral consortia and Ph.D. schools, software implementations of the proposed methods, and supplementary data for most of our experiments.
 
-First of all, please check my [PhD dissertation (PDF)](https://lume.ufrgs.br/handle/10183/236350).
+First of all, please check my [PhD dissertation (PDF)](https://lume.ufrgs.br/handle/10183/236350){:target="_blank"}.
 
 ***
 
@@ -25,17 +25,17 @@ state-of-the-art algorithms for different binary problems using this solver.
 
 ## Publications
 
-1. <u>Marcelo de Souza</u>, Marcus Ritt and Manuel López-Ibáñez. **Capping methods for the automatic configuration of optimization algorithms**. Computers & Operations Research, v. 139, p. 1–15, 2022. [DOI: [10.1016/j.cor.2021.105615](https://doi.org/10.1016/j.cor.2021.105615)]<br><br>
+1. <u>Marcelo de Souza</u>, Marcus Ritt and Manuel López-Ibáñez. **Capping methods for the automatic configuration of optimization algorithms**. Computers & Operations Research, v. 139, p. 1–15, 2022. [DOI: [10.1016/j.cor.2021.105615](https://doi.org/10.1016/j.cor.2021.105615){:target="_blank"}]<br><br>
 
 2. <u>Marcelo de Souza</u> and Marcus Ritt. **Improved regression models for algorithm configuration**. The Genetic and Evolutionary Computation Conference (GECCO), 2022. [DOI: available soon]<br><br>
 
-3. <u>Marcelo de Souza</u>, Marcus Ritt, Manuel López-Ibáñez and Leslie Pérez Cáceres. **ACVIZ: A tool for the visual analysis of the configuration of algorithms with irace**. Operations Research Perspectives, v. 8, p. 1–9, 2021. [DOI: [10.1016/j.orp.2021.100186](https://doi.org/10.1016/j.orp.2021.100186)]<br><br>
+3. <u>Marcelo de Souza</u>, Marcus Ritt, Manuel López-Ibáñez and Leslie Pérez Cáceres. **ACVIZ: A tool for the visual analysis of the configuration of algorithms with irace**. Operations Research Perspectives, v. 8, p. 1–9, 2021. [DOI: [10.1016/j.orp.2021.100186](https://doi.org/10.1016/j.orp.2021.100186){:target="_blank"}]<br><br>
 
 4. <u>Marcelo de Souza</u> and Marcus Ritt. **A study of the automatic design of heuristics for binary quadratic programming**. XLVIII Brazilian Symposium on Operational Research (SBPO), p. 1673–1684, 2016.<br><br>
 
-5. <u>Marcelo de Souza</u> and Marcus Ritt. **Automatic grammar-based design of heuristic algorithms for unconstrained binary quadratic programming**. 18th European Conference on Evolutionary Computation in Combinatorial Optimization (EvoCOP), p. 67–84, 2018. [DOI: [10.1007/978-3-319-77449-7_5](https://doi.org/10.1007/978-3-319-77449-7_5)]<br><br>
+5. <u>Marcelo de Souza</u> and Marcus Ritt. **Automatic grammar-based design of heuristic algorithms for unconstrained binary quadratic programming**. 18th European Conference on Evolutionary Computation in Combinatorial Optimization (EvoCOP), p. 67–84, 2018. [DOI: [10.1007/978-3-319-77449-7_5](https://doi.org/10.1007/978-3-319-77449-7_5){:target="_blank"}]<br><br>
 
-6. <u>Marcelo de Souza</u> and Marcus Ritt. **An automatically designed recombination heuristic for the test-assignment problem**. 2018 IEEE Congress on Evolutionary Computation (CEC), p. 2411–2418, 2018. [DOI: [10.1109/CEC.2018.8477801](https://doi.org/10.1109/CEC.2018.8477801)]<br><br>
+6. <u>Marcelo de Souza</u> and Marcus Ritt. **An automatically designed recombination heuristic for the test-assignment problem**. 2018 IEEE Congress on Evolutionary Computation (CEC), p. 2411–2418, 2018. [DOI: [10.1109/CEC.2018.8477801](https://doi.org/10.1109/CEC.2018.8477801){:target="_blank"}]<br><br>
 
 ***
 
@@ -49,7 +49,7 @@ state-of-the-art algorithms for different binary problems using this solver.
 
 4. <u>Marcelo de Souza</u>. **How to speed-up the automated configuration of optimization algorithms**. Doctoral Consortium of the 14th Annual Symposium on Combinatorial Search (SoCS), AAAI, 2021.<br><br>
 
-5. <u>Marcelo de Souza</u>. **Automatic design of heuristic algorithms for binary optimization problems**. Doctoral Consortium of the 30th International Joint Conference on Artificial Intelligence (IJCAI), 2021. [DOI: [10.24963/ijcai.2021/672](https://doi.org/10.24963/ijcai.2021/672)]<br><br>
+5. <u>Marcelo de Souza</u>. **Automatic design of heuristic algorithms for binary optimization problems**. Doctoral Consortium of the 30th International Joint Conference on Artificial Intelligence (IJCAI), 2021. [DOI: [10.24963/ijcai.2021/672](https://doi.org/10.24963/ijcai.2021/672){:target="_blank"}]<br><br>
 
 6. Leslie Pérez Cáceres, <u>Marcelo de Souza</u>, Manuel López-Ibáñez and Marcus Ritt. **Evaluation of random forest importance measures for algorithm configuration**. Configuration and Selection of Algorithms Workshop (COSEAL), 2021.<br><br>
 
@@ -57,23 +57,23 @@ state-of-the-art algorithms for different binary problems using this solver.
 
 ## Software
 
-1. <u>Marcelo de Souza</u>, Marcus Ritt and Manuel López-Ibáñez. **[CAPOPT: Capping methods for the automatic configuration of optimization algorithms -- source code](https://github.com/souzamarcelo/capopt)**, 2020.<br><br>
+1. <u>Marcelo de Souza</u>, Marcus Ritt and Manuel López-Ibáñez. **[CAPOPT: Capping methods for the automatic configuration of optimization algorithms -- source code](https://github.com/souzamarcelo/capopt){:target="_blank"}**, 2020.<br><br>
 
-2. <u>Marcelo de Souza</u> and Marcus Ritt. **[Improved regression models for algorithm configuration -- source code](https://github.com/souzamarcelo/regression-models-ac)**, 2022.<br><br>
+2. <u>Marcelo de Souza</u> and Marcus Ritt. **[Improved regression models for algorithm configuration -- source code](https://github.com/souzamarcelo/regression-models-ac){:target="_blank"}**, 2022.<br><br>
 
-3. <u>Marcelo de Souza</u> and Marcus Ritt. **[ILSBQP: A simple iterated local search for unconstrained binary quadratic programming -- source code](https://github.com/souzamarcelo/ilsbqp)**, 2022.<br><br>
+3. <u>Marcelo de Souza</u> and Marcus Ritt. **[ILSBQP: A simple iterated local search for unconstrained binary quadratic programming -- source code](https://github.com/souzamarcelo/ilsbqp){:target="_blank"}**, 2022.<br><br>
 
-4. <u>Marcelo de Souza</u>, Marcus Ritt, Manuel López-Ibáñez and Leslie Pérez Cáceres. **[ACVIZ: A tool for the visual analysis of the configuration of algorithms with irace -- source code](https://github.com/souzamarcelo/acviz)**, 2020.<br><br>
+4. <u>Marcelo de Souza</u>, Marcus Ritt, Manuel López-Ibáñez and Leslie Pérez Cáceres. **[ACVIZ: A tool for the visual analysis of the configuration of algorithms with irace -- source code](https://github.com/souzamarcelo/acviz){:target="_blank"}**, 2020.<br><br>
 
-5. <u>Marcelo de Souza</u> and Marcus Ritt. **[AutoBQP: A component-wise solver to binary optimization -- source code](https://github.com/souzamarcelo/autobqp)**, 2018.<br><br>
+5. <u>Marcelo de Souza</u> and Marcus Ritt. **[AutoBQP: A component-wise solver to binary optimization -- source code](https://github.com/souzamarcelo/autobqp){:target="_blank"}**, 2018.<br><br>
 
-6. <u>Marcelo de Souza</u> and Marcus Ritt. **[HHPAL: Hybrid heuristic for unconstrained binary quadratic programming trained on Palubeckis’ instances -- source code](https://github.com/souzamarcelo/hhpal)**, 2018.<br><br>
+6. <u>Marcelo de Souza</u> and Marcus Ritt. **[HHPAL: Hybrid heuristic for unconstrained binary quadratic programming trained on Palubeckis’ instances -- source code](https://github.com/souzamarcelo/hhpal){:target="_blank"}**, 2018.<br><br>
 
-7. <u>Marcelo de Souza</u> and Marcus Ritt. **[HHMC: Hybrid heuristic for the maximum cut on graphs -- source code](https://github.com/souzamarcelo/hhmc)**, 2018.<br><br>
+7. <u>Marcelo de Souza</u> and Marcus Ritt. **[HHMC: Hybrid heuristic for the maximum cut on graphs -- source code](https://github.com/souzamarcelo/hhmc){:target="_blank"}**, 2018.<br><br>
 
-8. <u>Marcelo de Souza</u> and Marcus Ritt. **[HHBQP: Hybrid heuristic for unconstrained binary quadratic programming -- source code](https://github.com/souzamarcelo/hhbqp)**, 2018.<br><br>
+8. <u>Marcelo de Souza</u> and Marcus Ritt. **[HHBQP: Hybrid heuristic for unconstrained binary quadratic programming -- source code](https://github.com/souzamarcelo/hhbqp){:target="_blank"}**, 2018.<br><br>
 
-9. <u>Marcelo de Souza</u> and Marcus Ritt. **[HHTA: Hybrid heuristics for the test-assignment problem -- source code](https://github.com/souzamarcelo/hhta)**, 2018.<br><br>
+9. <u>Marcelo de Souza</u> and Marcus Ritt. **[HHTA: Hybrid heuristics for the test-assignment problem -- source code](https://github.com/souzamarcelo/hhta){:target="_blank"}**, 2018.<br><br>
 
 ***
 
@@ -81,12 +81,12 @@ state-of-the-art algorithms for different binary problems using this solver.
 
 In the following links, I provide the source code of the tested algorithms, all data, instructions and scripts to reproduce the experiments, and additional details for the results. I also provide all files for the configuration scenarios we used throughout this thesis, including algorithm implementations, execution scripts, problem instances, parameter descriptions and the  configurator setup.
 
-1. <u>Marcelo de Souza</u>, Marcus Ritt and Manuel López-Ibáñez. **[Capping methods for the automatic configuration of optimization algorithms -- supplementary material](https://github.com/souzamarcelo/supp-cor-capopt)**, 2021.<br><br>
+1. <u>Marcelo de Souza</u>, Marcus Ritt and Manuel López-Ibáñez. **[Capping methods for the automatic configuration of optimization algorithms -- supplementary material](https://github.com/souzamarcelo/supp-cor-capopt){:target="_blank"}**, 2021.<br><br>
 
-2. <u>Marcelo de Souza</u> and Marcus Ritt. **[Improved regression models for algorithm configuration -- supplementary material](https://github.com/souzamarcelo/supp-models-ac)**, 2022.<br><br>
+2. <u>Marcelo de Souza</u> and Marcus Ritt. **[Improved regression models for algorithm configuration -- supplementary material](https://github.com/souzamarcelo/supp-models-ac){:target="_blank"}**, 2022.<br><br>
 
-3. <u>Marcelo de Souza</u>, Marcus Ritt, Manuel López-Ibáñez and Leslie Pérez Cáceres. **[ACVIZ: Algorithm configuration visualizations for irace -- supplementary material](https://doi.org/10.5281/zenodo.4028904)**, Zenodo, 2020.<br><br>
+3. <u>Marcelo de Souza</u>, Marcus Ritt, Manuel López-Ibáñez and Leslie Pérez Cáceres. **[ACVIZ: Algorithm configuration visualizations for irace -- supplementary material](https://doi.org/10.5281/zenodo.4028904){:target="_blank"}**, Zenodo, 2020.<br><br>
 
-4. <u>Marcelo de Souza</u> and Marcus Ritt. **[Algorithm configuration scenarios](https://github.com/souzamarcelo/ac-scenarios)**, 2022.
+4. <u>Marcelo de Souza</u> and Marcus Ritt. **[Algorithm configuration scenarios](https://github.com/souzamarcelo/ac-scenarios){:target="_blank"}**, 2022.
 
 <br><br>
